@@ -1,5 +1,5 @@
 # Hangman
-Gr 10 Final Project
+Simple text based hang man game.
 
 ## Description
 This is the final project for my ISC 2O1 class. My first ever project that I have worked on using python. This project allowed me to learn the basics of python such as variable types, libraries, global and local variables, user inputs, random number generators, colour codes, functions, and conditional statements.
